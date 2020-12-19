@@ -10,6 +10,9 @@ Uno de los beneficios es que varias personas puedan agregar a dicho historial lo
 4. ¿Qué tipos de control de versiones existen?
 Existen 2 tipos de controladores de versiones:
 
+Sistemas locales: 
+En vez de mantener las versiones como archivos independientes, se almacenarán en una base de datos. El control de versiones se llevaba a cabo en el computador de cada uno de los desarrolladores y no existía una manera eficiente de compartir el código entre ellos.
+
 Sistemas centralizados:
 Tendremos un servidor en el que se alojará el repositorio del proyecto, con toda la información de los cambios, archivos añadidos, etc.
 
